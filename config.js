@@ -3,3 +3,5 @@ const awsConfig = {
   secretAccessKey: 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY',
   region: 'us-east-1'
 };
+
+secret_scanning_sample_token: 'test',
